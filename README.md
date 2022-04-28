@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kwabena-obibini
 - 👀 I’m interested in Software engineering
 - 🌱 I’m currently learning Python Programming
-- 💞️ I’m looking to collaborate on how to make the best out Python Programming
+- 💞️ I’m looking to collaborate on how to make the best out of Python Programming
 - 📫 How to reach me kwabenaobibini13@gmail.com
 
 <!---
